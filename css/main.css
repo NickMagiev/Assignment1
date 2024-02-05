@@ -1,0 +1,76 @@
+/*Nikolai Magiev 8948814 */
+ul{
+    list-style-type: none; 
+   line-height: 50px;
+  }
+  ul a {
+    color: rgb(21, 0, 255);
+    text-decoration: none;
+  }
+  figcaption{
+   color: #000000;
+   font: italic smaller sans-serif;
+   padding: 0px;
+}
+aside{
+background-color: #ffffff;
+float: right;
+padding-left: 5%;
+width: 33%; 
+}
+aside a:hover {
+  color: yellow;
+}
+p{
+width: 40vw;
+height: 40vh;
+}
+body {
+  width: 90%;
+	max-width: 90%;
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font: 1rem Verdana;
+	padding: 0;
+  }
+   .border{
+    border: 5px double red;
+	border-radius: 20px;
+	margin: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-left: 20px;
+  width: auto;
+  max-width: auto;
+}
+  h1{
+    font-variant: small-caps;
+color: rgb(21, 0, 255);
+  }
+  h2{
+font-variant: small-caps;
+color: rgb(255, 0, 0);
+  }
+  footer p {
+    font-size: 0.9rem;
+	color:rgb(21, 0, 255);
+  }
+main{
+  margin: auto;
+	width: 67%;
+  padding: 25px 50px 50px 50px;
+}
+.mainimg{
+  border: 5px solid black;
+}
+figcaption {
+	font-weight: bold;
+	font-variant: small-caps;
+}
+q{
+  font-family: cursive;
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
