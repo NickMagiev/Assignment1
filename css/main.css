@@ -14,20 +14,16 @@ ul{
 }
 aside{
 background-color: #ffffff;
-float: right;
-padding-left: 5%;
+padding-left: 0px;
 width: 33%; 
+float: right;
 }
 aside a:hover {
   color: yellow;
 }
-p{
-width: 40vw;
-height: 40vh;
-}
 body {
   width: 90%;
-	max-width: 90%;
+	max-width: 7000px;
 	margin: auto;
 	margin-top: 15px;
 	margin-bottom: 15px;
@@ -38,11 +34,8 @@ body {
     border: 5px double red;
 	border-radius: 20px;
 	margin: auto;
-	margin-top: auto;
-	margin-bottom: auto;
 	padding-left: 20px;
   width: auto;
-  max-width: auto;
 }
   h1{
     font-variant: small-caps;
@@ -57,10 +50,9 @@ color: rgb(255, 0, 0);
 	color:rgb(21, 0, 255);
   }
 main{
-  margin: auto;
 	width: 67%;
-  padding: 25px 50px 50px 50px;
-}
+  padding: 0px;
+  }
 .mainimg{
   border: 5px solid black;
 }
@@ -73,4 +65,3 @@ q{
   font-style: italic;
   font-size: 1.5rem;
 }
-
